@@ -94,7 +94,7 @@ IPFS (InterPlanetary File System) enables decentralized, content-addressed stora
    - Fleek Project URL: [your-site.on.fleek.co]
    - GitHub Repository: [github.com/your/repo]
    - IPFS CID from Fleek: [CID shown in dashboard]
-   ```
+   ```image.png
 
 2. Include screenshots of:
    - Successful access via local gateway (Task 1)

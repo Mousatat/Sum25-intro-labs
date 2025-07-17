@@ -41,12 +41,10 @@ Total Physical Memory: 12,790,325,248 bytes (~12 GB)
 **Memory Usage:**
 ```
 Top 3 memory-consuming processes:
-1. Cursor.exe    - 656,027,648 bytes (~625 MB) - Code editor
-2. chrome.exe    - 455,069,696 bytes (~434 MB) - Web browser
-3. chrome.exe    - 446,042,112 bytes (~425 MB) - Web browser process
+1. chrome.exe    - 455,069,696 bytes (~434 MB) - Web browser
+2. chrome.exe    - 446,042,112 bytes (~425 MB) - Web browser process
 
 Working Set Memory consumption shows heavy usage by:
-- Code editors (Cursor)
 - Web browsers (Chrome with multiple processes)
 - System security (MsMpEng - Windows Defender)
 ```
